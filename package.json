@@ -4,12 +4,18 @@
   "description": "",
   "main": "main.js",
   "scripts": {
-    "start": "electron  ."
+    "start": "electron  .",
+    "build": "electron-packager . --overwrite --out=packages"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "electron": "^18.1.0"
+    "electron": "^18.1.0",
+    "electron-packager": "^15.5.1"
+    
+  },
+  "dependencies": {
+    "electron-reload": "^2.0.0-alpha.1"
   }
 }
