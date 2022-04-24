@@ -22,5 +22,4 @@ Depois de executar o comando, é só entrar na pasta <strong>Packages</strong> e
 <br>
 <br>
 <br>
-
 Está simples aplicação foi desenvolvida pelos 3 fundadores da DevsZoneMz quando ficaram com a curiosidade de saber como são construídas aplicações em Electron.
