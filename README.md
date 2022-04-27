@@ -3,7 +3,7 @@
 <img src=".github/preview.png">
 
 Está é uma simples aplicação feita em Electron que mostra uma simples mensagem.
- 
+Antes de iniciar visite a documentacao <a href="https://www.electronjs.org/docs/latest/">Clica</a>
 <br>
 Para rodar em sua maquina voce precida baixar as dependencias necessarias usando o seguinte comando: <br>
 
